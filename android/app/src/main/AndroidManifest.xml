@@ -1,6 +1,6 @@
-
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.carpet_area_calculate">
+
     <application
         android:label="carpet_area_calculate"
         android:icon="@mipmap/ic_launcher">
